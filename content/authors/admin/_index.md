@@ -37,7 +37,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Msc in Physics
+    - course: MSc in Physics
       institution: University of Dhaka
       year: Present
     - course: BSc in Physics
