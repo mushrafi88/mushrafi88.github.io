@@ -1,6 +1,8 @@
 ---
 # Display name
 title: Mushrafi Munim Sushmit
+design:
+ columns: '2'
 
 # Name pronunciation (optional)
 name_pronunciation: Mushrafi Munim Sushmit
