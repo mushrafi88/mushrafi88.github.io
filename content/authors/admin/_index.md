@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Mushrafi Munim Sushmit
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Mushrafi Munim Sushmit
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Mushrafi Munim
+last_name: Sushmit
 
 # Status emoji
 status:
@@ -17,34 +17,32 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Graduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Dhaka
+    url: https://www.du.ac.bd/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Quantum Information Science, Quantum Computing and Machine Learning.
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Quantum Computing
+  - Physics Informed Neural Networks
+  - Chaotic Systems
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Msc in Physics
+      institution: University of Dhaka
+      year: Present
+    - course: BSc in Physics
+      institution: University of Dhaka
+      year: 2023
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -56,35 +54,67 @@ skills:
         percent: 80
         icon: python
         icon_pack: fab
+      - name: C++
+        description: ''
+        percent: 80
+        icon: binary
+        icon_pack: fab
       - name: Data Science
         description: ''
         percent: 100
         icon: chart-line
         icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
+      - name: Nix
         description: ''
         percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
+        icon: redhat
+        icon_pack: fab
+      - name: Julia
         description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
+        percent: 40
+        icon: terminal
+        icon_pack: fab
+      - name: Bash
         description: ''
         percent: 80
-        icon: camera-retro
-        icon_pack: fas
+        icon: square-terminal
+        icon_pack: fab
+      - name: Git
+        description: ''
+        percent: 70
+        icon: git
+        icon_pack: fab
+      - name: PyTorch
+        description: ''
+        percent: 80
+        icon: fire-flame-curved
+        icon_pack: fab
+      - name: Qiskit
+        description: ''
+        percent: 75
+        icon: q
+        icon_pack: fab
+      - name: Comsol
+        description: ''
+        percent: 70
+        icon: simplybuilt
+        icon_pack: fab
+      - name: Pandas
+        description: ''
+        percent: 85
+        icon: file
+        icon_pack: fab
+      - name: OpenCV
+        description: ''
+        percent: 50
+        icon: eye-low-vision
+        icon_pack: fab
+      - name: Linux
+        description: ''
+        percent: 40
+        icon: linux
+        icon_pack: fab
+  
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -93,22 +123,22 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
+    link: 'mailto:mushrafi88@gmail.com'
+  - icon: facebook
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://www.facebook.com/mushrafi.munim.1/
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0009-0003-2515-9464
+  - icon: graduation-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=awo_5IkAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/mushrafi88
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/mushrafi-munim-sushmit-39a452152/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -120,5 +150,6 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Driven by a deep passion for quantum computing, I am a researcher currently pursuing my Master's degree in Physics at the University of Dhaka. My academic journey has been fueled by a desire to explore the intersection of quantum mechanics and machine learning, with the ultimate goal of leveraging the power of quantum machine learning to solve complex real-world problems.
+
 {style="text-align: justify;"}
