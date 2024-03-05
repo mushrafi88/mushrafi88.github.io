@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {2024} Mushrafi Munim Sushmit. This work is licensed under MIT License'
     license:
       enable: true
       allow_derivatives: false
@@ -53,7 +53,6 @@ footer:
       allow_commercial: false
 
 # Localization
-
 locale:
   date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
