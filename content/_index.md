@@ -43,6 +43,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: skills
+    id: skills 
     content:
       title: Skills
       text: ''
@@ -52,6 +53,7 @@ sections:
       columns: '3'
       view: showcase 
   - block: experience
+    id: experience 
     content:
       title: Research Experience
       # Date format for experience
