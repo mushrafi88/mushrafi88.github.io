@@ -69,23 +69,40 @@ sections:
           date_start: '2024-03-01'
           date_end: ''
           description: |2-
-              Conducting research under the mentorship of Dr. Golam Dastegir Al Quaderi in the field of quantum computing, specifically focusing on the adaptation of physics-informed neural networks (PINNs) to quantum computational frameworks. Successfully developed multiple models that integrate classical physics equations with PINN, including the coupling of differential equations like the Lotka-Volterra model, high-dimensional coupled Higgs equation, and nonlinear Schrödinger equations. Currently transitioning towards quantum machine learning-based implementations, aiming to bridge the gap between classical physics-informed modeling and quantum computing capabilities. Utilizing a combination of Python, PyTorch, PennyLane, and Qiskit to construct and validate quantum-enhanced versions of physics-informed neural networks. This ambitious project, serving as my master's thesis, aims to pioneer the integration of PINNs within quantum computing, potentially revolutionizing how we approach and solve physics-based problems through computational means.
+              - Conducting research under the mentorship of Dr. Golam Dastegir Al Quaderi in the field of quantum computing, specifically focusing on the adaptation of physics-informed neural networks (PINNs) to quantum computational frameworks.
+              - Successfully developed multiple models that integrate classical physics equations with PINN, including the coupling of differential equations like the Lotka-Volterra model, high-dimensional coupled Higgs equation, and nonlinear Schrödinger equations.
+              - Currently transitioning towards quantum machine learning-based implementations, aiming to bridge the gap between classical physics-informed modeling and quantum computing capabilities.
+              - Utilizing a combination of Python, PyTorch, PennyLane, and Qiskit to construct and validate quantum-enhanced versions of physics-informed neural networks.
+              - This ambitious project, serving as my master's thesis, aims to pioneer the integration of PINNs within quantum computing, potentially revolutionizing how we approach and solve physics-based problems through computational means.
+        
         - title: Vaccination Decisions in a Dual Strain Disease Dynamics
           company: Research Assistant
           location: Dhaka, Bangladesh
           date_start: '2023-08-01'
           date_end: '2024-02-28'
           description: |2-
-              Worked under the guidance of Dr. Muntasir Alam from Department of Applied Mathematics, University of Dhaka to analyze the impact of vaccination considering behavioral, socio-economic factors on the dynamics of a second disease strain. Integrated randomness, game theory principles, and network analysis to create a comprehensive model for disease spread in the given scenario. Utilized Python, Mesa and Julia to implement multi agent based models and conducted rigorous testing. Developed three distinct models to enhance the understanding of disease spread dynamics: a scale-free model where agents utilize a random scale-free graph to make vaccination decisions, a complete graph model reflecting uniform decision-making among all agents, and a stochastic model for validating our findings. The comprehensive study is currently under review at the Chaos, Solitons & Fractals journal.
+              - Worked under the guidance of Dr. Muntasir Alam from Department of Applied Mathematics, University of Dhaka to analyze the impact of vaccination considering behavioral, socio-economic factors on the dynamics of a second disease strain.
+              - Integrated randomness, game theory principles, and network analysis to create a comprehensive model for disease spread in the given scenario.
+              - Utilized Python, Mesa and Julia to implement multi agent based models and conducted rigorous testing.
+              - Developed three distinct models to enhance the understanding of disease spread dynamics: a scale-free model where agents utilize a random scale-free graph to make vaccination decisions, a complete graph model reflecting uniform decision-making among all agents, and a stochastic model for validating our findings.
+              - The comprehensive study is currently under review at the Chaos, Solitons & Fractals journal.
+
         - title: Quantum Machine Learning for Solar Irradiance Forecasting
           company: Research Assistant
           location: Dhaka, Bangladesh
           date_start: '2023-03-01'
           date_end: '2023-05-31'
           description: |2-
-              Worked under the supervision of Dr. Mohammed Mahbubul Islam from Institute of Energy Engineering, Dhaka University of Engineering & Technology to develop and validate hybrid classical-quantum machine learning models for solar irradiance prediction. Conceptualized and initiated the project, proposing the integration of quantum layers within feedforward neural networks. Utilized Python, PennyLane, Qiskit, and PyTorch to implement the models and conducted rigorous testing. Engineered a novel fully connected parameterized quantum circuit tailored for solar irradiance forecasting. Led the technical aspects of the project, encompassing model design, implementation, model validation and, performance evaluation. Published the findings in a Q1 journal with an impact factor of 10.4.
+              - Worked under the supervision of Dr. Mohammed Mahbubul Islam from Institute of Energy Engineering, Dhaka University of Engineering & Technology to develop and validate hybrid classical-quantum machine learning models for solar irradiance prediction.
+              - Conceptualized and initiated the project, proposing the integration of quantum layers within feedforward neural networks.
+              - Utilized Python, PennyLane, Qiskit, and PyTorch to implement the models and conducted rigorous testing.
+              - Engineered a novel fully connected parameterized quantum circuit tailored for solar irradiance forecasting.
+              - Led the technical aspects of the project, encompassing model design, implementation, model validation and, performance evaluation.
+              - Published the findings in a Q1 journal with an impact factor of 10.4.
+
     design:
       columns: '2'
+
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -99,33 +116,34 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
+        - title: Quantum Mechanics & Quantum Computing Part-1 & Part-2
+          organization: Quantum Computing theory, Comsol Simulation of Quantum Mechanical Systems, IBM Qiskit Learning
+          date_start: '2022-09-01'
+          icon: fas/q
+          certificate_url: 'https://drive.google.com/file/d/18G8NGhod25tklUqGwcEag2xhIk760zYk/view?usp=sharing'
+          url: 'https://drive.google.com/file/d/1XZAapFuoRyimRfhdO0mUoiWdEG8uL9HM/view?usp=sharing'
           description: ''
-          icon: coursera
+
+        - title: Neural Networks & Deep Learning
           organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+          date_start: '2021-08-01'
+          icon: coursera 
+          certificate_url: 'https://coursera.org/share/f9bc3ebbd2c8762ba97a7504503edbe0'
+          description: 'Foundational concepts of neural networks, Deep learning architectures'
+
+        - title: Bayesian Methods for Machine Learning
+          organization: Coursera
+          date_start: '2020-08-01'
+          icon: coursera 
+          certificate_url: 'https://coursera.org/share/f5e4bea281e9462f7fa157c6655afb26'
+          description: 'Bayesian Networks, Markov Chain Monte Carlo, Bayesian Inference'
+
+        - title: Data Driven Astronomy
+          organization: Coursera
+          date_start: '2020-06-01'
+          icon: coursera 
+          certificate_url: 'https://coursera.org/share/27a14bb9e58221969cbe22aa20c67535'
+          description: 'Python Programming, Machine Learning, Applied Machine Learning, SQL'
     design:
       columns: '2'
   - block: portfolio
