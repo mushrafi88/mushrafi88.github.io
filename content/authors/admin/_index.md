@@ -49,68 +49,6 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Programming
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: C++
-        description: ''
-        percent: 50
-        icon: binary
-        icon_pack: fab
-      - name: Nix
-        description: ''
-        percent: 30
-        icon: redhat
-        icon_pack: fab
-      - name: Julia
-        description: ''
-        percent: 20
-        icon: terminal
-        icon_pack: fab
-      - name: Bash
-        description: ''
-        percent: 70
-        icon: square-terminal
-        icon_pack: fab
-      - name: Git
-        description: ''
-        percent: 40
-        icon: git
-        icon_pack: fab
-      - name: PyTorch
-        description: ''
-        percent: 50
-        icon: fire-flame-curved
-        icon_pack: fas
-      - name: Qiskit
-        description: ''
-        percent: 55
-        icon: q
-        icon_pack: fab
-      - name: Comsol
-        description: ''
-        percent: 45
-        icon: simplybuilt
-        icon_pack: fab
-      - name: Pandas
-        description: ''
-        percent: 75
-        icon: file
-        icon_pack: fab
-      - name: OpenCV
-        description: ''
-        percent: 50
-        icon: eye-low-vision
-        icon_pack: fab
-      - name: Linux
-        description: ''
-        percent: 90
-        icon: linux
-        icon_pack: fab
   - name: Technical Skills
     items:
       - name: Quantum Computing
@@ -148,6 +86,71 @@ skills:
         percent: 40
         icon: people-arrows
         icon_pack: fas
+  - name: Programming Language 
+    items:
+      - name: Python
+        description: ''
+        percent: 80
+        icon: python
+        icon_pack: fab
+      - name: C++
+        description: ''
+        percent: 50
+        icon: binary
+        icon_pack: fab
+      - name: Julia
+        description: ''
+        percent: 20
+        icon: terminal
+        icon_pack: fab
+      - name: Bash
+        description: ''
+        percent: 70
+        icon: square-terminal
+        icon_pack: fab
+  - name: Frameworks
+    items:
+      - name: Nix
+        description: ''
+        percent: 30
+        icon: redhat
+        icon_pack: fab
+      - name: Git
+        description: ''
+        percent: 40
+        icon: git
+        icon_pack: fab
+      - name: PyTorch
+        description: ''
+        percent: 50
+        icon: fire-flame-curved
+        icon_pack: fas
+      - name: Qiskit
+        description: ''
+        percent: 55
+        icon: q
+        icon_pack: fab
+      - name: Comsol
+        description: ''
+        percent: 45
+        icon: simplybuilt
+        icon_pack: fab
+      - name: Pandas
+        description: ''
+        percent: 75
+        icon: file
+        icon_pack: fab
+      - name: OpenCV
+        description: ''
+        percent: 50
+        icon: eye-low-vision
+        icon_pack: fab
+      - name: Linux
+        description: ''
+        percent: 90
+        icon: linux
+        icon_pack: fab
+
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
