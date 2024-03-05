@@ -113,42 +113,41 @@ skills:
         icon_pack: fab
   - name: Technical Skills
     items:
-      - skills:
-        - name: Quantum Computing
-          description: ''
-          percent: 100
-          icon: chart-line
-          icon_pack: fas
-        - name: Quantum Machine Learning 
-          description: ''
-          percent: 100
-          icon: chart-line
-          icon_pack: fas
-        - name: Mathematical Modeling
-          description: ''
-          percent: 99
-          icon: chart-line
-          icon_pack: fas
-        - name: Data Science
-          description: ''
-          percent: 100
-          icon: chart-line
-          icon_pack: fas
-        - name: Machine Learning 
-          description: ''
-          percent: 100
-          icon: chart-line
-          icon_pack: fas
-        - name: Computer Vision 
-          description: ''
-          percent: 100
-          icon: chart-line
-          icon_pack: fas
-        - name: Natural Language Processing
-          description: ''
-          percent: 100
-          icon: chart-line
-          icon_pack: fas
+      - name: Quantum Computing
+        description: ''
+        percent: 100
+        icon: atom
+        icon_pack: fas
+      - name: Quantum Machine Learning 
+        description: ''
+        percent: 100
+        icon: robot
+        icon_pack: fas
+      - name: Mathematical Modeling
+        description: ''
+        percent: 99
+        icon: wind
+        icon_pack: fas
+      - name: Data Science
+        description: ''
+        percent: 100
+        icon: chart-line
+        icon_pack: fas
+      - name: Machine Learning 
+        description: ''
+        percent: 100
+        icon: brain
+        icon_pack: fas
+      - name: Computer Vision 
+        description: ''
+        percent: 100
+        icon: eye
+        icon_pack: fas
+      - name: Natural Language Processing
+        description: ''
+        percent: 100
+        icon: people-arrows
+        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
