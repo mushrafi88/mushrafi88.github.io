@@ -58,47 +58,47 @@ skills:
         icon_pack: fab
       - name: C++
         description: ''
-        percent: 80
+        percent: 50
         icon: binary
         icon_pack: fab
       - name: Nix
         description: ''
-        percent: 60
+        percent: 30
         icon: redhat
         icon_pack: fab
       - name: Julia
         description: ''
-        percent: 40
+        percent: 20
         icon: terminal
         icon_pack: fab
       - name: Bash
         description: ''
-        percent: 80
+        percent: 70
         icon: square-terminal
         icon_pack: fab
       - name: Git
         description: ''
-        percent: 70
+        percent: 40
         icon: git
         icon_pack: fab
       - name: PyTorch
         description: ''
-        percent: 80
+        percent: 50
         icon: fire-flame-curved
         icon_pack: fas
       - name: Qiskit
         description: ''
-        percent: 75
+        percent: 55
         icon: q
         icon_pack: fab
       - name: Comsol
         description: ''
-        percent: 70
+        percent: 45
         icon: simplybuilt
         icon_pack: fab
       - name: Pandas
         description: ''
-        percent: 85
+        percent: 75
         icon: file
         icon_pack: fab
       - name: OpenCV
@@ -108,44 +108,44 @@ skills:
         icon_pack: fab
       - name: Linux
         description: ''
-        percent: 40
+        percent: 90
         icon: linux
         icon_pack: fab
   - name: Technical Skills
     items:
       - name: Quantum Computing
         description: ''
-        percent: 100
+        percent: 40
         icon: atom
         icon_pack: fas
       - name: Quantum Machine Learning 
         description: ''
-        percent: 100
+        percent: 35
         icon: robot
         icon_pack: fas
       - name: Mathematical Modeling
         description: ''
-        percent: 99
+        percent: 70
         icon: wind
         icon_pack: fas
       - name: Data Science
         description: ''
-        percent: 100
+        percent: 75
         icon: chart-line
         icon_pack: fas
       - name: Machine Learning 
         description: ''
-        percent: 100
+        percent: 75
         icon: brain
         icon_pack: fas
       - name: Computer Vision 
         description: ''
-        percent: 100
+        percent: 35
         icon: eye
         icon_pack: fas
       - name: Natural Language Processing
         description: ''
-        percent: 100
+        percent: 40
         icon: people-arrows
         icon_pack: fas
 
