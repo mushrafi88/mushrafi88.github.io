@@ -1,8 +1,6 @@
 ---
 title: Julia Set Animation
-summary: 
-This is an animation of a Julia set using the SageMath kernel and ffmpeg in a Jupyter-notebook environment. The function used is: $$f(z) = z^2 + 0.7885 e^{i \theta}$$ where $0 < \theta < 2 \pi$. 
-
+summary: This is an animation of a Julia set using the Numba and ffmpeg in a Jupyter-notebook environment. 
 tags:
   - Simulation 
 date: "2022-2-16T00:00:00Z"
