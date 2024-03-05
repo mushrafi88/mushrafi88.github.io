@@ -49,7 +49,7 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: Programming
     items:
       - name: Python
         description: ''
@@ -61,11 +61,6 @@ skills:
         percent: 80
         icon: binary
         icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
       - name: Nix
         description: ''
         percent: 60
@@ -90,7 +85,7 @@ skills:
         description: ''
         percent: 80
         icon: fire-flame-curved
-        icon_pack: fab
+        icon_pack: fas
       - name: Qiskit
         description: ''
         percent: 75
@@ -116,7 +111,44 @@ skills:
         percent: 40
         icon: linux
         icon_pack: fab
-  
+  - name: Technical Skills
+    items:
+      - skills:
+        - name: Quantum Computing
+          description: ''
+          percent: 100
+          icon: chart-line
+          icon_pack: fas
+        - name: Quantum Machine Learning 
+          description: ''
+          percent: 100
+          icon: chart-line
+          icon_pack: fas
+        - name: Mathematical Modeling
+          description: ''
+          percent: 99
+          icon: chart-line
+          icon_pack: fas
+        - name: Data Science
+          description: ''
+          percent: 100
+          icon: chart-line
+          icon_pack: fas
+        - name: Machine Learning 
+          description: ''
+          percent: 100
+          icon: chart-line
+          icon_pack: fas
+        - name: Computer Vision 
+          description: ''
+          percent: 100
+          icon: chart-line
+          icon_pack: fas
+        - name: Natural Language Processing
+          description: ''
+          percent: 100
+          icon: chart-line
+          icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
