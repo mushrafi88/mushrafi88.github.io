@@ -5,7 +5,7 @@ design:
  columns: '2'
 
 # Name pronunciation (optional)
-name_pronunciation: Mushrafi Munim Sushmit
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Mushrafi Munim
