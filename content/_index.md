@@ -117,9 +117,9 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Quantum Mechanics & Quantum Computing Part-1 & Part-2
-          organization: 
+          organization: Online Course  
           date_start: '2022-09-01'
-          icon: q
+          icon: scholar
           certificate_url: 'https://drive.google.com/file/d/18G8NGhod25tklUqGwcEag2xhIk760zYk/view?usp=sharing'
           url: 'https://drive.google.com/file/d/1XZAapFuoRyimRfhdO0mUoiWdEG8uL9HM/view?usp=sharing'
           description: 'Quantum Computing theory, Comsol Simulation of Quantum Mechanical Systems, IBM Qiskit Learning'
