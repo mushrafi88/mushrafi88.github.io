@@ -186,6 +186,12 @@ social:
 highlight_name: true
 ---
 
-Driven by a deep passion for quantum computing, I am a researcher currently pursuing my Master's degree in Physics at the University of Dhaka. My academic journey has been fueled by a desire to explore the intersection of quantum mechanics and machine learning, with the ultimate goal of leveraging the power of quantum machine learning to solve complex real-world problems.
+Hello! I'm Mushrafi Munim Sushmit. Welcome to my page. I am a master's student in the Department of Physics at the University of Dhaka. My research explores the intersection of physics and quantum computing, unraveling the mysteries of the universe. 
+
+I'm currently working on my Master's thesis, exploring the innovative application of neural networks to quantum computing. This work blends classical neural network models with the vast capabilities of quantum computing. Before diving into my Master's research, I spent time as a research assistant, investigating everything from disease dynamics influenced by vaccination decisions to the use of quantum machine learning for predicting solar irradiance.
+
+Education has always been a cornerstone of my life. I've also devoted my time to tutoring in subjects like mathematics, physics, and programming. I'm passionate about giving back to the community and find great joy in helping students navigate the complexities of these subjects. Beyond my academic and professional endeavors, I cherish the pursuit of continuous learning and personal growth. In my leisure time, I immerse myself in the worlds of movies and anime. As a huge Linux enthusiast, I take pleasure in customizing and beautifying my Linux setup. 
+
+If you're interested in the convergence of physics and technology or looking for a collaborator who brings a blend of passion, knowledge, and practical experience to the table, let's connect!
 
 {style="text-align: justify;"}
