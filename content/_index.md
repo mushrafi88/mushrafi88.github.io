@@ -50,7 +50,7 @@ sections:
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
     design:
-      columns: '3'
+      columns: '2'
       view: showcase 
   - block: experience
     id: experience 
@@ -103,7 +103,7 @@ sections:
               - Published the findings in a Q1 journal with an impact factor of 10.4.
 
     design:
-      columns: '2'
+      columns: '1'
 
   - block: accomplishments
     content:
