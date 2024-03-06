@@ -49,6 +49,28 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
+  - name: Programming Language 
+    items:
+      - name: Python
+        description: ''
+        percent: 80
+        icon: python
+        icon_pack: fab
+      - name: C++
+        description: ''
+        percent: 50
+        icon: file-code
+        icon_pack: fas
+      - name: Julia
+        description: ''
+        percent: 20
+        icon: terminal
+        icon_pack: fab
+      - name: Bash
+        description: ''
+        percent: 70
+        icon: cubes
+        icon_pack: fas
   - name: Technical Skills
     items:
       - name: Quantum Computing
@@ -85,28 +107,6 @@ skills:
         description: ''
         percent: 40
         icon: people-arrows
-        icon_pack: fas
-  - name: Programming Language 
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: C++
-        description: ''
-        percent: 50
-        icon: file-code
-        icon_pack: fas
-      - name: Julia
-        description: ''
-        percent: 20
-        icon: terminal
-        icon_pack: fab
-      - name: Bash
-        description: ''
-        percent: 70
-        icon: cubes
         icon_pack: fas
   - name: Frameworks
     items:
