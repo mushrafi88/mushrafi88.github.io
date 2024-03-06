@@ -50,12 +50,12 @@ sections:
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
     design:
-      columns: '2'
-      view: showcase 
+      columns: '3'
+      view: card 
   - block: experience
     id: experience 
     content:
-      title: Research Experience
+      title: Research Experience 
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -103,7 +103,7 @@ sections:
               - Published the findings in a Q1 journal with an impact factor of 10.4.
 
     design:
-      columns: '1'
+      columns: '2'
 
   - block: accomplishments
     content:
