@@ -96,8 +96,8 @@ skills:
       - name: C++
         description: ''
         percent: 50
-        icon: binary
-        icon_pack: fab
+        icon: file-code
+        icon_pack: fas
       - name: Julia
         description: ''
         percent: 20
@@ -106,8 +106,8 @@ skills:
       - name: Bash
         description: ''
         percent: 70
-        icon: square-terminal
-        icon_pack: fab
+        icon: cubes
+        icon_pack: fas
   - name: Frameworks
     items:
       - name: Nix
