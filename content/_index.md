@@ -87,7 +87,7 @@ sections:
               - Integrated randomness, game theory principles, and network analysis to create a comprehensive model for disease spread in the given scenario.
               - Utilized Python, Mesa and Julia to implement multi agent based models and conducted rigorous testing.
               - Developed three distinct models to enhance the understanding of disease spread dynamics: a scale-free model where agents utilize a random scale-free graph to make vaccination decisions, a complete graph model reflecting uniform decision-making among all agents, and a stochastic model for validating our findings.
-              - The comprehensive study is currently under review at the Chaos, Solitons & Fractals journal.
+              - Published the findings in a Q1 journal with an impact factor of 7.8.
 
         - title: Quantum Machine Learning for Solar Irradiance Forecasting
           company: Research Assistant
