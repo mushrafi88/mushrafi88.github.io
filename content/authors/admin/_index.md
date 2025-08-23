@@ -186,10 +186,8 @@ social:
 highlight_name: true
 ---
 
-Hello! I'm Mushrafi Munim Sushmit. Welcome to my page. I am a master's student in the Department of Physics at the University of Dhaka. My research explores the intersection of physics and quantum computing, unraveling the mysteries of the universe. 
+Hello! I'm Mushrafi Munim Sushmit. Welcome to my page. I am a First year Graduate student in the Department of Physics and Astronomy at the University of Tennessee, Knoxville. My research explores the intersection of physics and quantum computing, unraveling the mysteries of the universe. 
 
-I'm currently working on my Master's thesis, exploring the innovative application of neural networks to quantum computing. This work blends classical neural network models with the vast capabilities of quantum computing. Before diving into my Master's research, I spent time as a research assistant, investigating everything from disease dynamics influenced by vaccination decisions to the use of quantum machine learning for predicting solar irradiance.
-
-If you're interested in the convergence of physics and technology or looking for a collaborator who brings a blend of passion, knowledge, and practical experience to the table, let's connect!
+If you're interested in the convergence of physics and technology or looking for a collaborator, let's connect!
 
 {style="text-align: justify;"}
